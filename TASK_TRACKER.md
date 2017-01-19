@@ -58,7 +58,7 @@ You will learn about what role a controller has in an API, how it uses models an
 1. API Consumers should be able to update a task's Name, Description and Status.
 1. Validation should be performed.  Requests that fail validation should return the appropriate [HTTP Status Code](http://httpstatusrappers.com/).
 1. The CompletedOn date should be updated to the current date when Status is set to complete.
-1. API Consumers should be able to request a list of tasks by priority.
+1. API Consumers should be able to request a list of tasks by status.
 1. Generate API documentation with enough detail for a teammate to build a UI without any other knowledge.
 
 ### UI
